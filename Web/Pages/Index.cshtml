@@ -1,10 +1,20 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Rockjuice - Blog";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+<div class="post-container mb-3">
+    @foreach (var post in Model.BlogPosts)
+    {
+        <div class="mb-3">
+            <h2>@post.Title</h2>
+            <p>@post.Content</p>
+            @if (!string.IsNullOrEmpty(post.VideoUrl))
+            {
+                <iframe width="560" height="315" src=@post.VideoUrl title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            }
+        </div>
+    }
 </div>

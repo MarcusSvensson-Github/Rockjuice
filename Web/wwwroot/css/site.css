@@ -17,6 +17,29 @@ html {
   min-height: 100%;
 }
 
+/* wwwroot/css/site.css */
+
 body {
-  margin-bottom: 60px;
+  font-family: 'Arial', sans-serif;
+  margin: 20px;
+  background: linear-gradient(to bottom, #fff556, #fd833e); /* Pink to yellow gradient background */
 }
+
+h1, h2, h3 {
+  color: #000000; /* Yellow text */
+}
+
+.container{
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.post-container {
+  background-color: rgba(255, 255, 255, 0.8); /* Translucent white background for the post container */
+  padding: 20px;
+  border-radius: 8px; /* Rounded corners for a bit of a retro look */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Slight box shadow */
+}
+
+
