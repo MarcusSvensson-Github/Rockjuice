@@ -1,5 +1,7 @@
 C:\Source\Rockjuice\Web\bin\Debug\net7.0\appsettings.Development.json
 C:\Source\Rockjuice\Web\bin\Debug\net7.0\appsettings.json
+C:\Source\Rockjuice\Web\bin\Debug\net7.0\package-lock.json
+C:\Source\Rockjuice\Web\bin\Debug\net7.0\package.json
 C:\Source\Rockjuice\Web\bin\Debug\net7.0\Web.staticwebassets.runtime.json
 C:\Source\Rockjuice\Web\bin\Debug\net7.0\Web.exe
 C:\Source\Rockjuice\Web\bin\Debug\net7.0\Web.deps.json
@@ -29,5 +31,3 @@ C:\Source\Rockjuice\Web\obj\Debug\net7.0\refint\Web.dll
 C:\Source\Rockjuice\Web\obj\Debug\net7.0\Web.pdb
 C:\Source\Rockjuice\Web\obj\Debug\net7.0\Web.genruntimeconfig.cache
 C:\Source\Rockjuice\Web\obj\Debug\net7.0\ref\Web.dll
-C:\Source\Rockjuice\Web\bin\Debug\net7.0\package-lock.json
-C:\Source\Rockjuice\Web\bin\Debug\net7.0\package.json
