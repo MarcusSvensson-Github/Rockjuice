@@ -29,3 +29,5 @@ C:\Source\Rockjuice\Web\obj\Debug\net7.0\refint\Web.dll
 C:\Source\Rockjuice\Web\obj\Debug\net7.0\Web.pdb
 C:\Source\Rockjuice\Web\obj\Debug\net7.0\Web.genruntimeconfig.cache
 C:\Source\Rockjuice\Web\obj\Debug\net7.0\ref\Web.dll
+C:\Source\Rockjuice\Web\bin\Debug\net7.0\package-lock.json
+C:\Source\Rockjuice\Web\bin\Debug\net7.0\package.json

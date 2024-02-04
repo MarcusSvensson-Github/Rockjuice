@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OcqWX+I1mO5JUax/EZgFEdIEEVdiOJuIivv2kgp+/wY=",
+  "Hash": "1QJMoWLodv92Dqtc2e7TgCYL9HJMZUWqR6mE4ss++ww=",
   "Source": "Web",
   "BasePath": "_content/Web",
   "Mode": "Default",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\teamRJ.jpg"
+    },
+    {
+      "Identity": "C:\\Source\\Rockjuice\\Web\\wwwroot\\js\\app.js",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Source\\Rockjuice\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "js/app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\app.js"
     },
     {
       "Identity": "C:\\Source\\Rockjuice\\Web\\wwwroot\\js\\site.js",
@@ -1103,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Source\\Rockjuice\\Web\\wwwroot\\lib\\vue\\vue.global.prod.js",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Source\\Rockjuice\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "lib/vue/vue.global.prod.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\vue\\vue.global.prod.js"
     }
   ]
 }

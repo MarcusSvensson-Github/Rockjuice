@@ -4,6 +4,16 @@
     ViewData["Title"] = "The Team";
 }
 <h1>@ViewData["Title"]</h1>
+@* path till vue i sig *@
+<script type="module" src="lib/vue/vue.global.prod.js"></script>
+@* Path till vår app *@
+<script type="module" src="js/app.js"></script>
+
+<div id="app">
+    <v-about></v-about>
+</div>
+
+
 
 <div class="post-container text-center">
     <img class="m-3" src="images/teamRJ.jpg"/>

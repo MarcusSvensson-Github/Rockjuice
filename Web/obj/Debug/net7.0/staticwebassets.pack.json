@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\images\\teamRJ.jpg"
     },
     {
+      "Id": "C:\\Source\\Rockjuice\\Web\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
       "Id": "C:\\Source\\Rockjuice\\Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
@@ -251,6 +255,10 @@
     {
       "Id": "C:\\Source\\Rockjuice\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Source\\Rockjuice\\Web\\wwwroot\\lib\\vue\\vue.global.prod.js",
+      "PackagePath": "staticwebassets\\lib\\vue\\vue.global.prod.js"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props",
