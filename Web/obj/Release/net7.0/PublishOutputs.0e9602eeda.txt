@@ -1,0 +1,9 @@
+C:\Source\Rockjuice\Web\bin\Release\net7.0\publish\Web.exe
+C:\Source\Rockjuice\Web\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Source\Rockjuice\Web\bin\Release\net7.0\publish\appsettings.json
+C:\Source\Rockjuice\Web\bin\Release\net7.0\publish\package-lock.json
+C:\Source\Rockjuice\Web\bin\Release\net7.0\publish\package.json
+C:\Source\Rockjuice\Web\bin\Release\net7.0\publish\Web.dll
+C:\Source\Rockjuice\Web\bin\Release\net7.0\publish\Web.deps.json
+C:\Source\Rockjuice\Web\bin\Release\net7.0\publish\Web.runtimeconfig.json
+C:\Source\Rockjuice\Web\bin\Release\net7.0\publish\Web.pdb
