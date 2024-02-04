@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BOk88pTUOpPf9Q1RLaVzJPirJrT/dMJ7vgTsU3yOljU=",
+  "Hash": "OcqWX+I1mO5JUax/EZgFEdIEEVdiOJuIivv2kgp+/wY=",
   "Source": "Web",
   "BasePath": "_content/Web",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Source\\Rockjuice\\Web\\wwwroot\\images\\rockjuice.svg",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Source\\Rockjuice\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "images/rockjuice.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\rockjuice.svg"
+    },
+    {
+      "Identity": "C:\\Source\\Rockjuice\\Web\\wwwroot\\images\\teamRJ.jpg",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Source\\Rockjuice\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "images/teamRJ.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\teamRJ.jpg"
     },
     {
       "Identity": "C:\\Source\\Rockjuice\\Web\\wwwroot\\js\\site.js",

@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Source\\Rockjuice\\Web\\wwwroot\\images\\rockjuice.svg",
+      "PackagePath": "staticwebassets\\images\\rockjuice.svg"
+    },
+    {
+      "Id": "C:\\Source\\Rockjuice\\Web\\wwwroot\\images\\teamRJ.jpg",
+      "PackagePath": "staticwebassets\\images\\teamRJ.jpg"
+    },
+    {
       "Id": "C:\\Source\\Rockjuice\\Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
